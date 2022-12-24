@@ -7,6 +7,6 @@ La gentrificación es “la sustitución de la clase popular de un barrio por un
 
 La propuesta de este trabajo final de máster consiste en la visualización interactiva de los datos económicos de los barrios de una gran ciudad para evaluar su evolución en los últimos años, analizar los factores que caracterizan los barrios con alto índice de gentrificación y detectar los barrios en riesgo de gentrificación a corto plazo.
 
-Archivo db con sesión de notebook puede descargarse del siguiente enlace (> 900MB).
+Archivo db con sesión de notebook puede descargarse del siguiente enlace (> 900MB)\
 https://fundapiecuador-my.sharepoint.com/:u:/g/personal/fundapi_fundapiecuador_onmicrosoft_com/EW7ovzYeGUNAjsHmfU55Dt4Bab8ktpvOl7SJnkpLoYb1sw?e=i1emRj
 
